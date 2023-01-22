@@ -12,8 +12,8 @@ export default function Header() {
           width={36}
           height={36}
         />
-        <h1 className="sm:text-5xl text-3xl font-bold ml-2 tracking-tight">
-          restorePhotos.io
+        <h1 className="sm:text-5xl text-3xl font-bold ml-2 tracking-tight uppercase">
+          clean your photo
         </h1>
       </Link>
       <a
